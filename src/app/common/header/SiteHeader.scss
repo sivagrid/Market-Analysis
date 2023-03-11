@@ -1,0 +1,13 @@
+.global-header {
+  .global-nav-content {
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1024px;
+    #basic-navbar-nav {
+      .nav-link {
+        font-size: 13px;
+      }
+    }
+  }
+}
